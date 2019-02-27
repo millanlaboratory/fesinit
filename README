@@ -1,0 +1,5 @@
+2013-03-26  Andrea Biasiucci <andrea.biasiucci@epfl.ch>
+
+This application activates the FES device (MEDEL MotionStim8) channels, enabling
+manual adjustments in amplitude by therapists or other operators using the
+buttons on the device. 
